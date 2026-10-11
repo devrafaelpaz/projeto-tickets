@@ -1,0 +1,14 @@
+{
+  "name": "projeto-tickets",
+  "version": "1.0.0",
+  "description": "API de gerenciamento de tickets",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "Rafael Paz",
+  "license": "ISC"
+  
+}
